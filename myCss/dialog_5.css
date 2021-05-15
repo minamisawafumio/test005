@@ -1,0 +1,17 @@
+div{
+ position: relative;
+}
+
+canvas{
+ position: absolute;
+}
+
+#id_btn1{
+  position: absolute;
+  left: 10px;
+  top: 20px;
+}
+
+#dialog001{
+	  position: absolute;
+}
